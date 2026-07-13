@@ -15,9 +15,9 @@ The examples and resources shared here are grounded in a learning principles-fir
 - Example Olfaction Assignment
 
 ### Interactive Learning Experiences
-- The Synapse Files
-- Ephys Simulator
-- Pharmacodynamic Modeling
+- The Synapse Files (https://thesynapsefiles.streamlit.app/)
+- Ephys Simulator (https://nrs401ephyssimulator.streamlit.app/)
+- Pharmacodynamic Modeling (https://modelingpharmacodynamics.streamlit.app/)
 
 ### Design Principles
 1. Identify learning goals and outcomes.
