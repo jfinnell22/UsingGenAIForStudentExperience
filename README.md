@@ -13,7 +13,7 @@ The examples and resources shared here are grounded in a learning principles-fir
 ### Framework & Workshop Materials
 - Workshop Planning Worksheet
 - Example Olfaction Assignment
-- Parkinson's Activity with "James"
+- Parkinson's Activity with "James" (chat with "James" https://character.ai/chat/gR9ywpe8LzEs2iTEZISpYmX93baykPkMJWvN6GiLEsY)
 
 ### Interactive Learning Experiences
 - The Synapse Files (https://thesynapsefiles.streamlit.app/)
